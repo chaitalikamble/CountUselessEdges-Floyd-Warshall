@@ -13,7 +13,6 @@ import java.io.*;
  * using Floyd Warshall's algorithm and counts the number of useless
  * edges.
  * 
- * @author	Vaibhavi Awghate	Section 03
  * @author	Chaitali Kamble		Section 03
  */
 public class CountUseless {
